@@ -1,35 +1,33 @@
 # 🗒️ Registro de Trabajo en Clase - Taller X
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+Sábado 14 de febrero de 2026
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+| Nombre | Correo Electrónico |
+|---|---|
+| Valentina Alejandra López Romero | valentinalopro@unisabana.edu.co |
+| Mariana Valle Moreno | marianavamo@unisabana.edu.co |
+| Laura Camila Rodriguez León | laurarodleo@unisabana.edu.co |
 
 ## 🧠 Actividades realizadas en clase
 
-Describa brevemente qué se hizo durante la sesión:
+El objetivo del presente trabajo fue modelar las entidades principales del caso Clínica Salud Viva y representar los flujos de información entre actores y sistemas mediante un modelo entidad–relación (ERD) y un diagrama de contexto de negocio.
 
-- ¿Qué se discutió con el equipo?
-- ¿Qué decisiones de modelado se tomaron?
-- ¿Qué herramientas se usaron (papel, pizarra, draw.io, Astah)?
-- ¿Qué parte del trabajo se alcanzó a desarrollar?
+Durante la sesión fue posible analizar en grupo el contexto del caso, identificando facilmente los elementos centrales tales como las entidades principales y sus relaciones claves, todo bajo el contexto del proceso de atención médica. Mientras estos temas iban siendo discutidos se fue creando el modelo ERD en la herramienta draw.io. Además, se revisaron los actores externos que interactúan con el sistema, tales como paciente, médico, asistente administrativo y aseguradora, con el fin de definir los flujos de información en el diagrama de contexto.
 
 ## 🧩 Boceto inicial del modelo
-
-> (Puede insertar aquí una imagen del boceto, una captura de pantalla o un diagrama preliminar si ya fue hecho en digital)
+![ModeloEntidad](https://github.com/user-attachments/assets/626a4394-bbec-4209-b203-71c1a45387ce)
 
 ## 🔁 Tareas definidas para complementar el taller
 
-Anote las responsabilidades acordadas entre los miembros del equipo para completar la entrega final:
+Las responsabilidades asignadas a cada miembro en este taller fueron las siguientes:
 
 | Tarea asignada | Responsable | Fecha estimada |
 |----------------|-------------|----------------|
-| Modelado final en draw.io | Nombre 1 | 10/08 |
-| Redacción del informe     | Nombre 2 | 11/08 |
-| Investigación y referencias | Nombre 3 | 12/08 |
+| Modelado final en draw.io | Valentina Alejandra López Romero | 10/08 |
+| Redacción del informe     | Mariana Valle Moreno | 11/08 |
+| Investigación y referencias | Laura Camila Rodriguez León | 12/08 |
 
 ---
 
