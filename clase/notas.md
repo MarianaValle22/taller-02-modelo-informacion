@@ -1,4 +1,4 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 2
 
 ## 📆 Fecha de la sesión
 Sábado 14 de febrero de 2026
